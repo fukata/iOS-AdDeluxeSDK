@@ -1,7 +1,0 @@
-//
-// Prefix header for all source files of the 'adDeluxeSDK' target in the 'adDeluxeSDK' project
-//
-
-#ifdef __OBJC__
-    #import <Foundation/Foundation.h>
-#endif
