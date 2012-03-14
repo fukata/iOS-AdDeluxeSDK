@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'AdDeluxe' target in the 'AdDeluxe' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
